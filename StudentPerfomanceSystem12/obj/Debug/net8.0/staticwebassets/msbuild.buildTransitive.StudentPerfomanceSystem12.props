@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\StudentPerfomanceSystem12.props" />
+</Project>
